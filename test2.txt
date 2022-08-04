@@ -1,0 +1,14 @@
+1) a. Common Language Runtime
+Provides an environment that supports .net framework
+
+2) b. Constants
+It is like a variable with final key word, once the value is defined it cannot be changed
+
+3) b. Bigger data type to smaller data type
+when a variable is defined as a bigger data type , bigger space is assigned to it so converting it to a smaller data type is possible implicitly
+
+4) d. TimeSpan
+TimeSpan is used to find the difference between 2 DateTime variables
+
+5)d. Creating Strings
+A new String can be created using Strings
