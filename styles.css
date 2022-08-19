@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(90, 59, 66);
+}
+
+
+h1{
+    color:orangered
+}
+
+p{
+    color: orange;
+    font-size: large
+}
+
+table, tr,td{
+    border: 7px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    background-color: #8fd6d6;
+  }
+
+label{
+    font-size: x-large;
+}

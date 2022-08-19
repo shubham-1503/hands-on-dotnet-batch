@@ -1,0 +1,9 @@
+ID ; Name ; Section
+
+01 ; Shubham Pawar; Chemistry
+02 ; Meet Popat ; Biology
+03 ; Sahil Shaikh  ; Physics
+04 ; Harsh Singh; Maths
+05 ; Chinmay Daund ; Computers
+06 ; Sumit Rana ; Hindi
+07 ; Shivtej Deshmukh ; Yoga
